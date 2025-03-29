@@ -12,11 +12,10 @@ const Home = () => {
           Gaurav Wakhare
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Front End Developer.
+          I'm a Software Engineer.
         </h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          And an aspiring full-stack developer specializing in building exceptional digital experiences. Currently, I’m focused on
-          building responsive and dynamic web applications.
+        <p className='text-[#8892b0] py-4 max-w-[700px] sm:text-xl'>
+          And A Full-Stack Developer, Building impactful software to solve real-world problems. My mission is to contribute to projects that create genuine value and collaborate with talented individuals to learn and grow both professionally and personally.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>

@@ -9,6 +9,8 @@ import java1 from '../assets/java1.svg';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 
+import Nodejs1 from '../assets/node1.png'
+import Expressjs from '../assets/express.png'
 
 const Skills = () => {
   return (
@@ -52,8 +54,17 @@ const Skills = () => {
                   <p className='my-4'>GITHUB</p>
               </div>
               
-             
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Nodejs1} alt="NODE JS icon" />
+                  <p className='my-4'>NODE JS</p>
+              </div>
             
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Expressjs} alt="Express JS icon" />
+                  <p className='my-4'>EXPRESS JS</p>
+              </div>
+
+             
 
           </div>
       </div>
