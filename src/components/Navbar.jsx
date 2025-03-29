@@ -39,7 +39,7 @@ const Navbar = () => {
         </li> 
         <li className='px-4 hover:text-yellow-200'>
           <Link to='work' smooth={true} duration={500}>
-            Work
+            Projects
           </Link>
         </li>
         <li className='px-4 '>
