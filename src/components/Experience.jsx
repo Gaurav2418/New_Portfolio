@@ -18,9 +18,9 @@ const Experience = () => {
             </a> */}
             <div class='flex justify-between'>
             <h2 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Next Step Technologies.</h2>
-            <h3 class="mt-5 font-semibold">December 2024 - Current</h3>
+            <h3 class="mt-5 font-semibold dark:text-white">December 2024 - Current</h3>
             </div>
-            <h2 class="text-gray-600 font-extrabold m-3">Junior Software Engineer</h2>
+            <h2 class="text-gray-600 font-extrabold m-3 dark:text-white">Junior Software Engineer</h2>
             
                 
                 <ul class="max-w-screen-xl ml-6 mr-[150px] space-y-1 text-gray-600 list-disc list-inside dark:text-gray-400">

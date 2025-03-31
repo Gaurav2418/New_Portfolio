@@ -37,7 +37,7 @@ const Work = () => {
                 Tutorial
             </a> */}
             <h1 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Offline Shopkeeper Companion</h1>
-            <h2 class="text-gray-600 font-extrabold m-3">Building a Seamless Platform to Help Offline Businesses Expand Their Reach and to Grow in a Competative Environment</h2>
+            <h2 class="text-gray-600 font-extrabold m-3 dark:text-white">Building a Seamless Platform to Help Offline Businesses Expand Their Reach and to Grow in a Competative Environment</h2>
             <p class="text-lg font-normal text-gray-600 dark:text-gray-400 mb-6">This project aims to empower offline shopkeepers by providing them with a platform that increases their reach and helps them compete with online e-commerce giants. The app provides a solution to a key problem faced by consumers shopping online — the inability to verify product quality in person and deal with inconvenient return/replacement policies.</p>
             <a href="#" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                 Read more
