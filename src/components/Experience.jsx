@@ -7,7 +7,7 @@ const Experience = () => {
 
 <div name='experience' className="w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center w-full" >
 <p className='bg-[#0a192f] text-white  text-4xl font-bold  border-b-4 border-pink-600 '>Work Experience</p>
-<section class=" ">
+<section class=" dark:bg-gray-900">
     <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
         <div className="bg-gray-300 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12 mb-8">
             {/* <a href="#" class="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-blue-400 mb-2">
