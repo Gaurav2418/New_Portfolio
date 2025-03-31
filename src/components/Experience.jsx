@@ -6,7 +6,7 @@ const Experience = () => {
 
         // flex flex-col justify-center items-center w-full w-full h-screen
 <div name='experience' className=" bg-[#0a192f] " >
-    <div className="w-full">
+    <div className="w-full  flex justify-center">
         <p className='bg-[#0a192f] text-white  text-4xl font-bold  border-b-4 border-pink-600 '>
             Work Experience
         </p>

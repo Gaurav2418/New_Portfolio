@@ -11,20 +11,20 @@ const Work = () => {
   
   return (
     <div name='work' className='bg-[#0a192f] text-white py-9 '>
-      <div className='flex flex-col justify-center items-center w-full h-full'>
+      <div className='flex flex-col justify-center items-center w-full h-full mt-[100px]'>
          <div className=''>
 
-              <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Work</p>
+              <p className='text-4xl font-bold inline border-b-4 border-pink-600 ml-6'>Work</p>
               
-              <p className='py-4 font-bold text-2xl sm:text-3xl text-[#8892b0]'> These are my some of the featured projects </p>
-              <p className='font-semibold p-2'>More Interesting Projects are Comming soon</p>
+              <p className='py-4 font-bold text-2xl sm:text-3xl text-[#8892b0] ml-6'> These are my some of the featured projects </p>
+              <p className='font-semibold p-2 ml-3'>More Interesting Projects are Comming soon</p>
           </div>
 
 
-          <div>
-              <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Currently Working on</p>
-              <h2 className='text-2xl font-semibold p-3 ml-3'>Offline Shopkeeper Companion</h2>
-              </div>
+          <div className='mt-[20px]'>
+              <p className='text-3xl font-bold inline border-b-4 border-pink-600 ml-6'>Currently Working on</p>
+              <h2 className='text-xl font-semibold p-3 ml-3 '>Offline Shopkeeper Companion</h2>
+            </div>
               
 
 <section className="bg-[#0a192f] dark:bg-gray-900 ">
@@ -36,9 +36,9 @@ const Work = () => {
                 </svg>
                 Tutorial
             </a> */}
-            <h1 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Offline Shopkeeper Companion</h1>
-            <h2 class="text-gray-600 font-extrabold m-3 dark:text-white">Building a Seamless Platform to Help Offline Businesses Expand Their Reach and to Grow in a Competative Environment</h2>
-            <p class="text-lg font-normal text-gray-600 dark:text-gray-400 mb-6">This project aims to empower offline shopkeepers by providing them with a platform that increases their reach and helps them compete with online e-commerce giants. The app provides a solution to a key problem faced by consumers shopping online — the inability to verify product quality in person and deal with inconvenient return/replacement policies.</p>
+            <h1 class="text-gray-900 dark:text-black text-3xl md:text-5xl font-extrabold mb-2">Offline Shopkeeper Companion</h1>
+            <h2 class="text-gray-600 font-extrabold m-3 dark:text-black">Building a Seamless Platform to Help Offline Businesses Expand Their Reach and to Grow in a Competative Environment</h2>
+            <p class="text-lg font-normal text-gray-600 dark:text-gray-900 mb-6">This project aims to empower offline shopkeepers by providing them with a platform that increases their reach and helps them compete with online e-commerce giants. The app provides a solution to a key problem faced by consumers shopping online — the inability to verify product quality in person and deal with inconvenient return/replacement policies.</p>
             <a href="#" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                 Read more
                 <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -118,7 +118,7 @@ const Work = () => {
     </div>
 </section>
 
-          <div> 
+          <div className='mt-[20px]'> 
 
 
           {/* 1st project div movie store app */}
