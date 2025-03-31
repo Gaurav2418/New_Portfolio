@@ -54,11 +54,11 @@ const Work = () => {
                     </svg>
                     Design
                 </a> */}
-                <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">Features</h2>
+                <h2 class="text-gray-900 dark:text-black text-3xl font-extrabold mb-2">Features</h2>
                 {/* List */}
-                <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
+                <p class="text-lg font-normal text-gray-500 dark:text-gray-900 mb-4">
                       {/* <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Password requirements:</h2> */}
-                      <ul class="max-w-md space-y-1 text-gray-600 list-inside dark:text-gray-400">
+                      <ul class="max-w-md space-y-1 text-gray-600 list-inside dark:text-gray-900">
                           <li class="flex items-center">
                               <svg class="w-3.5 h-3.5 me-2 text-green-600 dark:text-green-400 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                   <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
@@ -106,8 +106,8 @@ const Work = () => {
                     </svg>
                     Conclusion
                 </a> */}
-                <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">Conclusion</h2>
-                <p class="text-lg font-normal text-gray-600 dark:text-gray-400 mb-4">With this project, we aim to help offline shopkeepers compete with online e-commerce giants by providing them with a digital platform to increase their reach. The unique selling point of the app is that it allows users to verify product quality in person before making a purchase, avoiding common inconveniences like return hassles and poor product quality that often come with online shopping. This helps small local businesses gain a more trusted digital presence while offering customers the benefits of convenient and trustworthy offline shopping.</p>
+                <h2 class="text-gray-900 dark:text-black text-3xl font-extrabold mb-2">Conclusion</h2>
+                <p class="text-lg font-normal text-gray-600 dark:text-gray-900 mb-4">With this project, we aim to help offline shopkeepers compete with online e-commerce giants by providing them with a digital platform to increase their reach. The unique selling point of the app is that it allows users to verify product quality in person before making a purchase, avoiding common inconveniences like return hassles and poor product quality that often come with online shopping. This helps small local businesses gain a more trusted digital presence while offering customers the benefits of convenient and trustworthy offline shopping.</p>
                 <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
                     <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>

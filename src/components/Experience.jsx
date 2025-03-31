@@ -23,19 +23,19 @@ const Experience = () => {
             </a> */}
 
             <div class='sm:flex sm:justify-between'>
-            <h2 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Next Step Technologies.</h2>
-            <h3 class="mt-5 font-semibold dark:text-white">December 2024 - Current</h3>
+            <h2 class="text-gray-900 dark:text-black text-3xl md:text-5xl font-extrabold mb-2">Next Step Technologies.</h2>
+            <h3 class="mt-5 font-semibold dark:text-black">December 2024 - Current</h3>
             </div>
-            <h2 class="text-gray-600 font-extrabold m-3 dark:text-white">Junior Software Engineer</h2>
+            <h2 class="text-gray-600 font-extrabold m-3 dark:text-black">Junior Software Engineer</h2>
             
                 
-                <ul class="max-w-screen-xl sm:ml-6 sm:mr-[120px] space-y-1 text-gray-600 list-disc list-inside dark:text-gray-400">
+                <ul class="max-w-screen-xl sm:ml-6 sm:mr-[120px] space-y-1 text-gray-600 list-disc list-inside dark:text-gray-900">
                     <li>
                     Developed a fully automated testing system using LabVIEW to monitor and control the performance of electronic
                     devices under various conditions. This system reduced testing time by 30% and improved accuracy.
                     </li>
                     <li>
-                    Created user-friendly graphical interfaces (using LabVIEW’s front panel) to display real-time data and Implemented OEE (Overall Equipment Efficiency calculations within the system to monitor machine performance and identify areas for improvement, resulting in better resource utilization
+                    Created user-friendly graphical interfaces (using LabVIEW’s front panel) to display real-time data and Implemented OEE (Overall Equipment Efficiency) calculations within the system to monitor machine performance and identify areas for improvement, resulting in better resource utilization
                     </li>
                     
                 </ul>
