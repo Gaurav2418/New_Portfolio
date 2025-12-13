@@ -39,7 +39,7 @@ const Work = () => {
             <h1 class="text-gray-900 dark:text-black text-3xl md:text-5xl font-extrabold mb-2">Offline Shopkeeper Companion</h1>
             <h2 class="text-gray-600 font-extrabold m-3 dark:text-black">Building a Seamless Platform to Help Offline Businesses Expand Their Reach and to Grow in a Competative Environment</h2>
             <p class="text-lg font-normal text-gray-600 dark:text-gray-900 mb-6">This project aims to empower offline shopkeepers by providing them with a platform that increases their reach and helps them compete with online e-commerce giants. The app provides a solution to a key problem faced by consumers shopping online — the inability to verify product quality in person and deal with inconvenient return/replacement policies.</p>
-            <a href="#" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+            <a href="" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                 Read more
                 <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -92,7 +92,7 @@ const Work = () => {
                       </ul>
                 </p>
 
-                <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
+                <a href="" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
                     <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                 </svg>
@@ -108,7 +108,7 @@ const Work = () => {
                 </a> */}
                 <h2 class="text-gray-900 dark:text-black text-3xl font-extrabold mb-2">Conclusion</h2>
                 <p class="text-lg font-normal text-gray-600 dark:text-gray-900 mb-4">With this project, we aim to help offline shopkeepers compete with online e-commerce giants by providing them with a digital platform to increase their reach. The unique selling point of the app is that it allows users to verify product quality in person before making a purchase, avoiding common inconveniences like return hassles and poor product quality that often come with online shopping. This helps small local businesses gain a more trusted digital presence while offering customers the benefits of convenient and trustworthy offline shopping.</p>
-                <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
+                <a href="" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
                     <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                     </svg>
